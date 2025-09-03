@@ -90,7 +90,6 @@ font-size: 0.875rem; /* 14px */
 ---
 
 ## 🎨 **Aplicação das Cores por Contexto**
-
 ### **Backgrounds**
 ```css
 --bg-primary: var(--white);      /* Fundo principal */
